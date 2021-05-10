@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TalentExchange</string>
+    <string name="new_user">New User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_talents">My talents are…</string>
+    <string name="subject">Subject</string>
+    <string name="i_need_help_with">I need help with…</string>
+    <string name="i_m_available">My available times are…</string>
+    <string name="my_contact_info">My contact info…</string>
+    <string name="explore">Explore</string>
+    <string name="me">Me</string>
+</resources>
